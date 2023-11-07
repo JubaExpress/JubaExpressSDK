@@ -7,20 +7,4 @@
    <groupId>com.group.module</groupId>
    <artifactId>test</artifactId>
    <version>1.0</version>
-
-   <dependency>
-  <groupId>com.squareup.retrofit2</groupId>
-  <artifactId>retrofit</artifactId>
-  <version>2.9.0</version>
-</dependency>
-      <dependency>
-  <groupId>com.squareup.retrofit2</groupId>
-  <artifactId>converter-gson</artifactId>
-  <version>2.9.0</version>
-</dependency>
-      <dependency>
-  <groupId>com.squareup.retrofit2</groupId>
-  <artifactId>logging-interceptor</artifactId>
-  <version>5.0.0-alpha.11</version>
-</dependency>
 </project>
