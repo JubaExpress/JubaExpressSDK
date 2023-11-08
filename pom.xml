@@ -8,7 +8,7 @@
    <artifactId>test</artifactId>
    <version>1.0</version>
 
-    <dependencies>
+<!--     <dependencies>
         <dependency>
            <groupId>com.squareup.retrofit2</groupId>
           <artifactId>retrofit</artifactId>
@@ -27,5 +27,5 @@
           <version>5.0.0-alpha.11</version>
         </dependency>
        
-  </dependencies>
+  </dependencies> -->
 </project>
