@@ -7,90 +7,25 @@
    <groupId>com.group.module</groupId>
    <artifactId>test</artifactId>
    <version>1.0</version>
- <dependencies>
+
+<!--     <dependencies>
+        <dependency>
+           <groupId>com.squareup.retrofit2</groupId>
+          <artifactId>retrofit</artifactId>
+          <version>2.9.0</version>
+        </dependency>
+
     <dependency>
-      <groupId>androidx.databinding</groupId>
-      <artifactId>viewbinding</artifactId>
-      <version>8.2.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.jetbrains.kotlin</groupId>
-      <artifactId>kotlin-stdlib</artifactId>
-      <version>1.9.21</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.jetbrains.kotlin</groupId>
-      <artifactId>kotlin-parcelize-runtime</artifactId>
-      <version>1.9.21</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.google.android.material</groupId>
-      <artifactId>material</artifactId>
-      <version>1.11.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>androidx.constraintlayout</groupId>
-      <artifactId>constraintlayout</artifactId>
-      <version>2.1.4</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.squareup.retrofit2</groupId>
-      <artifactId>retrofit</artifactId>
-      <version>2.9.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.squareup.retrofit2</groupId>
-      <artifactId>converter-gson</artifactId>
-      <version>2.9.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.squareup.okhttp3</groupId>
-      <artifactId>logging-interceptor</artifactId>
-      <version>5.0.0-alpha.11</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>androidx.swiperefreshlayout</groupId>
-      <artifactId>swiperefreshlayout</artifactId>
-      <version>1.1.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>androidx.security</groupId>
-      <artifactId>security-crypto</artifactId>
-      <version>1.0.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.github.bumptech.glide</groupId>
-      <artifactId>glide</artifactId>
-      <version>4.16.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>androidx.activity</groupId>
-      <artifactId>activity-compose</artifactId>
-      <version>1.8.2</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>androidx.compose.material</groupId>
-      <artifactId>material</artifactId>
-      <version>1.6.0-beta03</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>androidx.compose.ui</groupId>
-      <artifactId>ui-tooling</artifactId>
-      <version>1.6.0-beta03</version>
-      <scope>compile</scope>
-    </dependency>
-  </dependencies>
+           <groupId>com.squareup.retrofit2</groupId>
+          <artifactId>converter-gson</artifactId>
+          <version>2.9.0</version>
+        </dependency>
+
+      <dependency>
+           <groupId>com.squareup.retrofit2</groupId>
+          <artifactId>logging-interceptor</artifactId>
+          <version>5.0.0-alpha.11</version>
+        </dependency>
+       
+  </dependencies> -->
 </project>
